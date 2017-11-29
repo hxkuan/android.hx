@@ -1,1 +1,1 @@
-include ':app', ':webviewx5', ':webviewuploadchoice'
+include ':app', ':webviewx5', ':webviewuploadchoice', ':utilsRePlugin', ':appRePlugin'
